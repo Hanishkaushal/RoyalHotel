@@ -1,0 +1,39 @@
+.RestaurantHeading{
+    font-family: Engravers MT;
+    text-align: center;
+}
+.facility{
+    display: inline-block;
+    font-family: Franklin Gothic Book;
+    color: white;
+    margin-top: 15px;
+    margin-bottom: 15px;
+    width: 33%;
+    height: 280px;
+    background-color: #be9b7b;
+    padding-top: 90px;
+    text-align: center;
+}
+.head{
+    font-size: 18px;
+}
+.subhead{
+    font-size: 25px;
+}
+.res{
+    display: inline-block;
+}
+.book{
+    font-family: Franklin Gothic Book;
+    background-image: url('images/bookbackground.jpg');
+    padding-top: 100px;
+    background-size: 100% 100%;
+    height: 700px;
+    margin-bottom: 15px;
+}
+.Bookcontain{
+    text-align: center;
+    background-color: black;
+    width: 40%;
+    height: 500px;
+}

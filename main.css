@@ -1,0 +1,100 @@
+.limitedOffer{
+    font-family:Gabriola;
+    font-size:45px;    
+}
+.saving{
+    font-family: Gabriola;
+
+}
+.btn1:hover{
+    background-color: orange;
+    box-shadow: 1px 0 3px gray;
+    border-bottom: 1px solid black;
+    border-top: 1px solid black;
+    color: black;
+}
+.btn1{
+    color: white;
+    padding: 10px;
+    letter-spacing: 5px;
+}
+.btn2:hover{
+    text-decoration: none;
+    padding: 10px;
+    background-color: aliceblue;
+    border-bottom: 1px solid black;
+    border-top: 1px solid black;
+    box-shadow: 1px 1px 5px gray;
+}
+.ak{
+    
+    text-align: center;
+}
+.availability{
+    font-size: 45px;
+    color: white;
+    letter-spacing: 5px;
+    margin: 10px;
+}
+.availability1:hover{
+    background-color: aliceblue;
+    text-decoration: none;
+    color: black;
+    margin: 10px;
+    border-bottom: 1px solid black;
+    border-top: 1px solid black;
+    box-shadow: 1px 1px 5px gray;
+}
+.hotel{
+    background-image: url('images/View.jpg');
+    background-size: 100% 100%;
+    width: 100%;
+    height: 525px;
+    font-family:Gabriola;
+    color: #fff;
+    text-align: center;
+}
+.forest{
+    width: 730px;
+    height: 300px;
+    margin-left: 100px;
+}
+/*.sdiv{
+    width: 100%;
+    height: 300px;
+    overflow: hidden;
+    overflow-y: scroll;
+}*/
+.container{
+    max-width: 1350px;
+    margin: auto;
+}
+.row{
+    display: flex;
+    flex-wrap: wrap;
+}
+ul{
+    list-style: none;
+    text-align: left;
+}
+li{
+    padding: 5px;
+}
+.footer-col a{
+    color: aliceblue;
+    text-decoration: none;
+}   
+footer{
+    background-color: rgb(27, 17, 17);
+    padding: 50px 0;
+    margin-left: 0px;
+}
+.footer-col{
+    width: 22%;
+    padding: 0 15px;
+}
+.footer-col h4{
+    color: white;
+    font-family: Corbel;
+    font-size: 18px;
+}
